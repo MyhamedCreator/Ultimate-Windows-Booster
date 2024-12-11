@@ -42,7 +42,7 @@ Example screenshot of the main interface:
 
 ## 📥 Download  
 You can download the latest version of Ultimate Windows Booster here:  
-[Download Ultimate Windows Booster](https://link-to-your-download-page)
+[Download Ultimate Windows Booster](https://github.com/MyhamedCreator/Ultimate-Windows-Booster/releases/download/4.5.1/installer.exe)
 
 ---
 
