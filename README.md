@@ -78,12 +78,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Community Discussions
 Join our vibrant community to share ideas, ask questions, or showcase your optimized setups:
-- [Announcements](https://github.com/MyhamedKi/Ultimate-Windows-Booster/discussions/categories/announcements)
-- [General](https://github.com/MyhamedKi/Ultimate-Windows-Booster/discussions/categories/general)
-- [Ideas](https://github.com/MyhamedKi/Ultimate-Windows-Booster/discussions/categories/ideas)
-- [Polls](https://github.com/MyhamedKi/Ultimate-Windows-Booster/discussions/categories/polls)
-- [Q&A](https://github.com/MyhamedKi/Ultimate-Windows-Booster/discussions/categories/q-a)
-- [Show and Tell](https://github.com/MyhamedKi/Ultimate-Windows-Booster/discussions/categories/show-and-tell)
+- [Announcements](https://github.com/MyhamedCreator/Ultimate-Windows-Booster/discussions/categories/announcements)
+- [General](https://github.com/MyhamedCreator/Ultimate-Windows-Booster/discussions/categories/general)
+- [Ideas](https://github.com/MyhamedCreator/Ultimate-Windows-Booster/discussions/categories/ideas)
+- [Polls](https://github.com/MyhamedCreator/Ultimate-Windows-Booster/discussions/categories/polls)
+- [Q&A](https://github.com/MyhamedCreator/Ultimate-Windows-Booster/discussions/categories/q-a)
+- [Show and Tell](https://github.com/MyhamedCreator/Ultimate-Windows-Booster/discussions/categories/show-and-tell)
 
 ---
 
